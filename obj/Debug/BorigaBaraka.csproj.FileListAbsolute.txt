@@ -1,0 +1,16 @@
+C:\Users\Sumsung\source\repos\BorigaBaraka\bin\Debug\BorigaBaraka.exe.config
+C:\Users\Sumsung\source\repos\BorigaBaraka\bin\Debug\BorigaBaraka.exe
+C:\Users\Sumsung\source\repos\BorigaBaraka\bin\Debug\BorigaBaraka.pdb
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\BorigaBaraka.Properties.Resources.resources
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\BorigaBaraka.csproj.GenerateResource.cache
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\BorigaBaraka.csproj.CoreCompileInputs.cache
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\BorigaBaraka.exe
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\BorigaBaraka.pdb
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\BorigaBaraka.Form1.resources
+C:\Users\Sumsung\source\repos\BorigaBaraka\bin\Debug\ja-JP\BorigaBaraka.resources.dll
+C:\Users\Sumsung\source\repos\BorigaBaraka\bin\Debug\ru\BorigaBaraka.resources.dll
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\BorigaBaraka.Form1.ja-JP.resources
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\BorigaBaraka.Form1.ru.resources
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\ja-JP\BorigaBaraka.resources.dll
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\ru\BorigaBaraka.resources.dll
+C:\Users\Sumsung\source\repos\BorigaBaraka\obj\Debug\BorigaBaraka.csproj.AssemblyReference.cache
